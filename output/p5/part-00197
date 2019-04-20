@@ -1,0 +1,2 @@
+Row(customer_fname=u'Crystal', customer_lname=u'Powell', order_count=5)
+Row(customer_fname=u'Sara', customer_lname=u'Cisneros', order_count=3)

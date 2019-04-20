@@ -1,0 +1,6 @@
+Row(customer_fname=u'Bruce', customer_lname=u'Horton', order_count=7)
+Row(customer_fname=u'Mary', customer_lname=u'Howard', order_count=5)
+Row(customer_fname=u'Mary', customer_lname=u'Schroeder', order_count=5)
+Row(customer_fname=u'Diane', customer_lname=u'Zimmerman', order_count=6)
+Row(customer_fname=u'Mary', customer_lname=u'Perry', order_count=3)
+Row(customer_fname=u'Jane', customer_lname=u'Stephenson', order_count=2)
